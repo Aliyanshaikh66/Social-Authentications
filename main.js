@@ -7,17 +7,6 @@ import { getAuth,
 } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-auth.js";
 
 // Firebase configuration
-// const firebaseConfig = {
-//   apiKey: "AIzaSyAw9urXz-gRRtMDsSp-KYeOR422w53Vaws",
-//   authDomain: "smit-de250.firebaseapp.com",
-//   projectId: "smit-de250",
-//   storageBucket: "smit-de250.firebasestorage.app",
-//   messagingSenderId: "795454057541",
-//   appId: "1:795454057541:web:97a07ae91361a3bebd872c",
-//   measurementId: "G-ZM0QWXTE63"
-// };
-
-// Firebase configuration
 const firebaseConfig = {
     apiKey: "AIzaSyDJuleBFwMYvvK4fpDu-Y1SpRcvO0D8Qvw",
     authDomain: "test-31b59.firebaseapp.com",
